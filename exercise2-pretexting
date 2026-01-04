@@ -1,0 +1,38 @@
+---
+
+## Exercise 2: Pretexting Attack (Social Engineering)
+
+### Exercise 2: Pretexting Attack
+
+### Objective
+To analyze how attackers use fake identities to obtain confidential information.
+
+### Description
+Pretexting involves creating a believable story to gain a victim’s trust.
+
+### Simulated Scenario
+An attacker calls an employee pretending to be a new IT technician and requests login details.
+
+Example dialogue (simulation only):
+Attacker: Hi, this is Alex from IT. We are fixing a system issue.  
+Victim: Okay.  
+Attacker: Can you confirm your username?
+
+### Attack Flow
+1. Attacker researches the target  
+2. Creates a fake role  
+3. Gains trust  
+4. Extracts information  
+
+### Impact
+- Information leakage  
+- Account compromise 
+- Unauthorized access
+
+### Prevention
+- Verify identity  
+- Follow security procedures  
+- Never share passwords
+
+### Conclusion
+Pretexting attacks exploit human trust rather than technical weaknesses
